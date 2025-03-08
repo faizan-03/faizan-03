@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-03" alt="faizan-03" /></a> </p>
 
-- 🔭 I’m currently working on **.net maui**
+- 🔭 I’m currently working on **AI and Machine Learning**
 
-- 🌱 I’m currently learning **.net maui**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me about **react,nodejs,Mysql,Mongodb,CPP**
+- 💬 Ask me about **react,nodejs,Mysql,Mongodb,CPP,.net blazor**
 
 - 📫 How to reach me **ranafaizaan03@gmail.com**
 
